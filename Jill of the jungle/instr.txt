@@ -1,0 +1,9 @@
+Keybinds -
+W - Move up
+A - Move left
+S - Move down
+D - Move right
+
+Your character is 'O'
+Avoid the monkeys 'M'
+Reach the banana to complete the level
